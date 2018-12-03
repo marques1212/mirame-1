@@ -1,19 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Menu De Inicio De MyNEFLYX]]></playlist_name>
+  
+
+  
+
 <channel>       
-<title><![CDATA[SALA DE SERIES ANGELODOS]]></title>
+<title><![CDATA[SALA DE SERIES MY NEFLIX]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-
-
-
-
-
-
-
-
-
-<prev_page_url text="CH- ATRAS"><![CDATA[myNEFLIX.xml]]></prev_page_url>
+  
+  
+  
+  
+  
+  <prev_page_url text="CH- ATRAS"><![CDATA[myNEFLIX.xml]]></prev_page_url>
 
 </items>
