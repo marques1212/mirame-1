@@ -94,6 +94,6 @@
 </channel>
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aidatodaslastemporadas.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/aidatodaslastemporadas.xml]]></prev_page_url>
 
 </items>
