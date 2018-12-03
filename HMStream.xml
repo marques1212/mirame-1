@@ -9,7 +9,7 @@
 <title><![CDATA[SALA DE SERIES ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -18,7 +18,7 @@
 <title><![CDATA[SALA DE SERIES CATALANAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescatalan.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriescatalan.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -28,7 +28,7 @@
 <title><![CDATA[SALA DE SERIES INFANTILES Y PELICULAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic86/ebd1f7ac72f6cd01db9eb0260ea1c99a.gif">Aqui encontraras todas las temporadas completas ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesinfantiles.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesinfantiles.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
@@ -39,7 +39,7 @@
 <title><![CDATA[SALA CINE ESTRENOS Y ALFABETICAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic88/e1466d3bed03cf0f206b024d40dcc06a.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/mejores/actual.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
@@ -49,7 +49,7 @@
 <title><![CDATA[SALA CINE HD-3D]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/b65bd0a6fbc58ffbe124a9af4f90c81e.gif"> Cine HD 3D]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/menuhd.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/menuhd.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
@@ -58,7 +58,7 @@
 <title><![CDATA[ADULTOS ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://playerslink.la/wp-content/uploads/2015/07/triple-x-tycoon-game-900x444.jpg">Aqui encotraras tus programas de tv]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/adultos.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/adultos.xml]]></playlist_url>
 <protected>true</protected>
 <buffer_kb>30000</buffer_kb>
 </channel>
