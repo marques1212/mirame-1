@@ -7,7 +7,7 @@
 <title><![CDATA[3D]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/f40b88b28890f956b8225c1587859f29.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculas3d.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/peliculas3d.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -15,7 +15,7 @@
 <title><![CDATA[ACCION]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/83638aad7892119a02682f1404a7b6b9.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculasaccionhd.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/peliculasaccionhd.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -24,7 +24,7 @@
 <title><![CDATA[AVENTURAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/fd2544f01ff9d361bfaa2033f7fc3771.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/aventurashd.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/aventurashd.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -32,7 +32,7 @@
 <title><![CDATA[BELICAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/1d3c085e828f6a46ba26430e72ce24fd.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/belicashd.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/belicashd.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
@@ -40,7 +40,7 @@
 <title><![CDATA[CIENCIA FICCION]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/4253c7a279becd927f580daeb0e255e8.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/cienciaficcion.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/cienciaficcion.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -48,7 +48,7 @@
 <title><![CDATA[COMEDIA]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/01acdb82b1ef44bc69bcc41628bfa21c.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/comedia.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/comedia.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -56,7 +56,7 @@
 <title><![CDATA[DRAMA]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/3eaf22a39ee8afdabc3c45009cd9259a.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/drama.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/drama.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
@@ -64,7 +64,7 @@
 <title><![CDATA[TERROR]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/baf566346c73da711a7c30957fa90d40.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/terror.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/terror.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -73,12 +73,12 @@
 <title><![CDATA[WESTERN]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/f010cfd5d0ba82e24120fab03b206584.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/western.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HD/western.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/HMStream.xml]]></prev_page_url>
 
 </items>
