@@ -43,13 +43,7 @@
  
  
  
- <channel>       
-<title><![CDATA[Arrow ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/arrow_9d1280qvfnn2016-03-25.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/arrow.xml ]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  
  
@@ -112,7 +106,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel>      
+<title><![CDATA[ Chicago p.d]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://i.picasion.com/pic88/941dc8b54426f7b76b527df2b6647037.gif" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/chicagopd.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
 
@@ -143,26 +143,13 @@
 
  
  
- <channel>       
-<title><![CDATA[el cuento de la criada ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif">]]>Secuela de la serie "1992". La serie sigue las vivencias de los personajes donde las dejo su precuela, teniendo como trasfondo los principales eventos que marcaron la vida publica italiana durante el ano que da nombre a la serie: el proceso ENIMONT, la caida politica de Bettino Craxi y del Partido Socialista Italiano, los atentados mafiosos en Florencia, Roma y Milan, los referendums abrogativos, el final de la Primera Republica y la entrada en politica de Silvio Berlusconi.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/ElcuentodelaCriada.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
  
  
 
  
 
  
- <channel>       
-<title><![CDATA[Farinas]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/farina_cxmm3m78k642018-02-28.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/fari.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
 
  <channel>       
