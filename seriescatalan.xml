@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
+ 
+ 
+
+
+<channel>       
+<title><![CDATA[Plats bruts ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/plats_bruts_tv_series-825771194-mmed.jpg>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescatalan/plats.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+<channel>       
+<title><![CDATA[Canales catalanes ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src=">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescatalan/canales.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ <channel>       
+<title><![CDATA[Polseres vermelles ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src=">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescatalan/pulseras.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
+
+</items>
