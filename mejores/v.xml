@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas v]]></playlist_name>
+ 
+		
+	
+
+
+<channel>
+<title><![CDATA[Verdad Oculta (2016) accion ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/u8dgbTGCtbgt1Mlkbn9jGukIavT.jpg" />Después de que parezca una adolescente asesinada en una ciudad de California, una mujer joven se ve obligada a probar que su hermano es inocente del crimen, descubriendo un lado oscuro inquietante para la comunidad.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/RrM3hkYzE61oBHKZ25Vom5oidacF5aoO/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+	
+<channel>
+<title><![CDATA[Vuelo 112 Misterio en el aire (2016) accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/feOOunUfBvjlFzQBXZuhfoG8pXk.jpg" />Cuando el hermano de la investigadora de accidentes de avión, Sofía Gilchrist, muere en el accidente de un avión que se suponía que ella debía estar, Sofía rompe el protocolo y comienza a investigar el accidente de forma secreta.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/NzaGx1YjE697gQVV8KLfj53sXWWGTEPr/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+
+ 
+<channel>
+<title><![CDATA[Voces del pasado (2015)   drama ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/cishfsxork2n_poster_vocesdelpasado.jpg" />Jane no puede recordar todo lo que ocurrió en su niñez. Cuando Sylvia Knowles, una multimillonaria, se pone en contacto con ella, asegurando que es su madre, Jane no duda en viajar a su lujosa mansión para averiguar su pasado. ]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/hqMmFtZjE6twlzmbLVcFlWMAnWGUbPsI/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>

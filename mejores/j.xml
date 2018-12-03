@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas J]]></playlist_name>
+ 
+		
+	
+<channel>
+<title><![CDATA[Jason Bourne 2016   accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn.pordede.com/content/covers/mediacover-62844-4.png" />]]>Es muy probable que en la película número 5 de la franquicia, los agentes del gobierno secreto especializado unan sus fuerzas para luchar contra el gobierno que les persigue y oprime, con el fin de recuperar sus antiguas vidas. Una nueva aventura en su larga trayectoria por recuperar un pasado que les fue robado desde el momento en que se prestaron voluntarios para tomarse el fármaco experimental desarrollado por el gobierno, con el que se pretendía potenciar el físico y la mente para crear auténticas máquinas de matar.</description>
+<stream_url><![CDATA[https://archive.org/download/Penguins_20180622/Jas4onBou4rne.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Jugada salvaje 2015  accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.imgur.com/sNxPsMw.jpg" />]]>Trata sobre un ex adicto al juego que se gana la vida como guardaespaldas en el mundillo de las apuestas; este peculiar protector, que no usa armas de fuego, se mete en problemas cuando defiende a una vieja amiga que es brutalmente golpeada por un importante mafioso.</description>
+<stream_url><![CDATA[https://archive.org/download/Penguins_20180622/Jug4ada.Sal4vaje.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Justicia letal 2015  accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.imgur.com/CEb9kLF.jpg" />]]>Un soldado fuera de la ley se ve inmerso en una lucha sin cuartel con un sheriff corrupto, sus obedientes ayudantes y un peligroso cartel de la droga con el fin de proteger a su hermana y su hija pequeña</description>
+<stream_url><![CDATA[https://archive.org/download/Penguins_20180622/Just55icia.Le55tal.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ 
+
+		
+	<channel>
+<title><![CDATA[Jurassic World  2015  accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn1.pordede.com/content/covers/mediacover-57225-4.png" />]]>Nueva entrega de la saga iniciada por Steven Spielberg. No serÃ¡ una cuarta parte al uso, sino un "reboot" (un reinicio de la franquicia) que tiene por objetivo dar inicio a una nueva trilogÃ­a, con otros personajes diferentes a los de la original. (FILMAFFINITY)</description>
+<stream_url><![CDATA[https://archive.org/download/images_20170624_1106/Ju2ra5ssi8cW4or6ld.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	<channel> 
+<title><![CDATA[Jumanji: Welcome to the Jungle 2017  comedia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/jumanji_welcome_to_the_jungle-452853204-mmed.jpg" />]]>Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo.</description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624_1105/Ju2ma8njiBi5en6veni9dosALaJu6ng7la.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>

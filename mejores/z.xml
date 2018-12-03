@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas z]]></playlist_name>
+ 
+		
+	
+	<channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_e55b1b6e3a29101ffa1341088d7eae12.jpg " />]]></description>
+</channel>
+
+
+
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>

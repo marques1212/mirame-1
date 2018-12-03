@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas q]]></playlist_name>
+ 
+		
+
+ 
+<channel>
+<title><![CDATA[Quiéreme siempre (2016) romance]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/7j36Q88GdEWUcKt4MTqAZ6AXD2Q.jpg" />John y Abby quieren poner fin a su matrimonio. Justo cuando van a comunicar a sus hijos el divorcio, su hija anuncia que va a casarse. Ambos acuerdan esperar hasta que pase la boda, que puede ser el tiempo necesario para recuperar su amor.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/ZnZXV3YjE6vgH4vPNbnHT56B_HUQEYox/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+
+ 
+<channel>
+<title><![CDATA[Que detengan esta boda (2016)  romance]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/9tkJFB72Irv2hwVydBRMtkIGrbc.jpg" />A Anna le disgusta la noticia de que su tía Belle vaya a casarse con Martin, un veterano y mujeriego actor. Por ello no dudará en regresar a Seattle para detener la boda. Allí conocerá a Clay, el hijo de Martin, quien también quiere impedir el enlace.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/xoYmIzYjE6kZjnJkAiC_HVVXDq7BtgLJ/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>
