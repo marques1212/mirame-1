@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Aida >> Todas Las Temporadas]]></playlist_name>
+  
+<channel>      
+<title><![CDATA[Aída Temporada 1 (2005) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://image.tmdb.org/t/p/w396/7v6e52yMnnaMU8RA8VjXmyEOQP3.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%201.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 2 (2005) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://pics.filmaffinity.com/A_da_Serie_de_TV-800020412-large.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%202.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 3 (2006) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://pics.filmaffinity.com/A_da_Serie_de_TV-800020412-large.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%203.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 4 (2007) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://image.tmdb.org/t/p/w396/c6NW06yEry9w2gDuTxq4RzB7RC2.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%204.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 5 (2007) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://image.tmdb.org/t/p/w396/b2gjGKlIM9rRA1hwvbJXy3NEliC.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%205.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 6 (2008) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://image.tmdb.org/t/p/w396/2JpMqoYSrhLEK5EQmDoaTrxwLtX.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%206.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 7 (2010) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://image.tmdb.org/t/p/w396/1UG9wffJsvEI4f5qNnKR9ZmvjMZ.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%207.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 8 (2010) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://pics.filmaffinity.com/A_da_Serie_de_TV-800020412-large.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%208.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 9 (2011) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://pics.filmaffinity.com/A_da_Serie_de_TV-800020412-large.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%209.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Aida Temporada 10 (2013) (T)]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://pics.filmaffinity.com/A_da_Serie_de_TV-800020412-large.jpg'/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aida/Aida%20Capitulos%20Temporada%2010.xml]]></playlist_url>  
+</channel>
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
+ 
+</items>

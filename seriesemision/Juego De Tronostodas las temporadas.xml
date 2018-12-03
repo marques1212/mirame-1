@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Juegos de tronos >> Todas Las Temporadas]]></playlist_name>
+  
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 1 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%201.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 2 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%202.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 3 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%203.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 4 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%204.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 5 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%205.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 6 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/Juego%20de%20Tronos%20Temporada%206.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 7 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juegodetronos/juegodetronostemporada7.xml]]></playlist_url>  
+</channel>
+ 
+
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
+ 
+</items>

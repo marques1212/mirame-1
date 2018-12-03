@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>Estoy vivo>>Temporada1</playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[Capitulo 1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/4/2/1504716904424.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/8/1505306671088.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Capitulo 1x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/6/8/1505982571186.mp4/1505982571186-audio_eng=96000-video_eng=1504000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/EstoyVivo.1x04.mkv/Estoy%20vivo.1x04.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/EstoyVivo.1x04.mkv/EstoyVivo.1x05.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/3/4/1508399737843.mp4/1508399737843-audio_eng=96000-video_eng=1496000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/1/7/1509003660471.mp4/1509003660471-audio_eng=96000-video_eng=1502000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/5/2/1509610629125.mp4/1509610629125-audio_eng=96000-video_eng=1500000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/0/7/1510226012870.mp4/1510226012870-audio_eng=96000-video_eng=1500000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[Capitulo 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/4/0/1510867446504.mp4/1510867446504-audio_eng=96000-video_eng=1502000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x11]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/EstoyVivo.1x04.mkv/EstViv1x11.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/7/9/1512087376497.mp4/1512087376497-audio=64000-video=698000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[Capitulo 1x13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/1/1/1513296993011.mp4/1513296993011-audio=64001-video=741000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[2x14]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/4/1537918515845.mp4/1537918515845-audio=64000-video=844000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[2x15]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/1/1538520831810.mp4/1538520831810-audio=64001-video=738000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+<channel>
+<title><![CDATA[2x16]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/1/1/1539127347711.mp4/1539127347711-audio=64001-video=817000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+<channel>
+<title><![CDATA[2x17]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_401a3be4079117d40493868a3e5d347c.jpg" />]]></description>
+<stream_url><![CDATA[https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/6/3/1539645263236.mp4/1539645263236-audio=64000-video=807000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
+
+</items>
