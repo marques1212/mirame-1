@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Menu De Inicio De MyNEFLYX]]></playlist_name>
+  
+
+  
+
+<channel>       
+<title><![CDATA[SALA DE SERIES MY NEFLIX]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+
+<channel>       
+<title><![CDATA[SALA DE SERIES MY NEFLIX CATALANAS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescatalan.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+ 
+<channel>       
+<title><![CDATA[SALA DE SERIES INFANTILES Y PELICULAS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/ebd1f7ac72f6cd01db9eb0260ea1c99a.gif">Aqui encontraras todas las temporadas completas ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesinfantiles.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+
+ 
+  
+  <channel>       
+<title><![CDATA[SALA CINE SOMOS LOS MEJORES Y ALFABETICAS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/e1466d3bed03cf0f206b024d40dcc06a.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[SALA CINE 4K]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/86e7e44cc0e029dfb8814a5bad5ac027.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/4K/menu4k.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[SALA DE CINE SAGAS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/4b484e0423f0706861bb643b36051acb.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/sagas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+ <channel>       
+<title><![CDATA[SALA CINE HD-3D]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/b65bd0a6fbc58ffbe124a9af4f90c81e.gif"> Cine HD 3D]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/menuhd.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+   
+<channel>       
+<title><![CDATA[TV AUTONOMICAS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/bdc869028c34f5d530d70f7c6a8760b9.gif">Aqui encontraras la TV Autonomicas]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/autonom%C3%ADcas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
+<channel>       
+<title><![CDATA[DEPORTES]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/4a3d7a2ea2b0af459fccc509357a737a.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/deportes.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+     
+<channel>       
+<title><![CDATA[DOCUMENTALES]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i37.tinypic.com/2dshkzl.jpg">Aqui en contraras documentales variados]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/documentales/menudocumentales.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>       
+<title><![CDATA[PROGRAMAS TV]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjd1P8-YeqINNMtI5AIhZ5pBtgoD2zI1NY8V8l4ftH8SAbLE9Kmg">Aqui encotraras tus programas de tv]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/menuprogramastv.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+
+ 
+<channel>       
+<title><![CDATA[CONCIERTOS MUSICA ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s3.eestatic.com/2016/06/28/corazon/estilo/hombre/Festivales_de_musica-Conciertos_musica-Grupos_musicales-Hombre_135998016_8402893_1706x960.jpg">Aqui encotraras tus programas de tv]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/conciertos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>       
+<title><![CDATA[ADULTOS ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://playerslink.la/wp-content/uploads/2015/07/triple-x-tycoon-game-900x444.jpg">Aqui encotraras tus programas de tv]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/adultos.xml]]></playlist_url>
+<protected>true</protected>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+
+  
+ 
+  
+  
+  
+  
+  
+
+<prev_page_url text="CH- ATRAS"><![CDATA[myNEFLIX.xml]]></prev_page_url>
+
+</items>
