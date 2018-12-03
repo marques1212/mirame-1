@@ -14,13 +14,7 @@
 </channel>
   
 
-<channel>       
-<title><![CDATA[SALA DE SERIES CATALANAS]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/093f261a29f8f44f3f8a162e3b58e628.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriescatalan.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
   
   
  
