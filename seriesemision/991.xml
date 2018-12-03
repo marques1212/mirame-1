@@ -101,6 +101,45 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
  
+ <channel>
+<title><![CDATA[ 2x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/FbVFG49fpng]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+ <channel>
+<title><![CDATA[ 2x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/djHuj_hMimI]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+ <channel>
+<title><![CDATA[ 2x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/ZNbS0tqY1EQ]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+<channel>
+<title><![CDATA[ 2x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg"/>]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+<channel>
+<title><![CDATA[ 2x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/5Si2C0JK94U]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
