@@ -44,7 +44,7 @@
  
  
  <channel>       
-<title><![CDATA[Arrow T1 a T6 ]]></title>
+<title><![CDATA[Arrow ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/arrow_9d1280qvfnn2016-03-25.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/arrow.xml ]]></playlist_url>
@@ -53,14 +53,7 @@
  
  
  
-  <channel>      
-<title><![CDATA[ Anatonomia de greyT13-T14]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/anatomia-de-grey_h981570u8r42016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/anatonomiat13.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
+  
  
 
  
@@ -129,7 +122,7 @@
  
  
 <channel>      
-<title><![CDATA[ Crimen en elparaiso T7]]></title> 
+<title><![CDATA[ Crimen en elparaiso ]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/crimen-en-el-paraiso_cb3wat9fv4p2016-08-07.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/crimenparaiso.xml]]></playlist_url>
@@ -138,7 +131,7 @@
  
  
  <channel>       
-<title><![CDATA[Chiringuito de pepe T1 y T2]]></title>
+<title><![CDATA[Chiringuito de pepe ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/614cf59ed3d709bf3c4505d36d3a0da4.gif">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/pepe.xml]]></playlist_url>
@@ -151,7 +144,7 @@
  
  
  <channel>       
-<title><![CDATA[el cuento de la criada T1 T2]]></title>
+<title><![CDATA[el cuento de la criada ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif">]]>Secuela de la serie "1992". La serie sigue las vivencias de los personajes donde las dejo su precuela, teniendo como trasfondo los principales eventos que marcaron la vida publica italiana durante el ano que da nombre a la serie: el proceso ENIMONT, la caida politica de Bettino Craxi y del Partido Socialista Italiano, los atentados mafiosos en Florencia, Roma y Milan, los referendums abrogativos, el final de la Primera Republica y la entrada en politica de Silvio Berlusconi.</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/ElcuentodelaCriada.xml]]></playlist_url>
@@ -164,7 +157,7 @@
 
  
  <channel>       
-<title><![CDATA[Farinas T1]]></title>
+<title><![CDATA[Farinas]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/farina_cxmm3m78k642018-02-28.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/fari.xml]]></playlist_url>
@@ -173,7 +166,7 @@
  
 
  <channel>       
-<title><![CDATA[ Fear the walking dead T1 a  T4]]></title>
+<title><![CDATA[ Fear the walking dead ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fear-the-walking-dead_alyh9yu412l2016-03-24.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/fearwalking.xml]]></playlist_url>
@@ -185,7 +178,7 @@
 
  
  <channel>       
-<title><![CDATA[Hawai 5.0 T1 a T8]]></title>
+<title><![CDATA[Hawai 5.0 ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/hawai-50_e4beyolgnmk2016-03-24.jpg">Hawaii Five-O es una versiÃ³n moderna de la recordada serie de los aÃ±os sesenta sobre una divisiÃ³n especial de la policÃ­a encargada de terminar con el crimen en Hawaii. En esta nueva versiÃ³n seguimos al detective Steve McGarrett (Alex OâLoughlin), un ex-oficial de la marina convertido en policÃ­a ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/hawai.xml]]></playlist_url>
@@ -196,7 +189,7 @@
   
  
  <channel>       
-<title><![CDATA[Homeland T7]]></title>
+<title><![CDATA[Homeland ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/homeland_p1lnruwg89b2016-03-24.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/homelandtemporadas.xml]]></playlist_url>
@@ -207,7 +200,7 @@
  
  
  <channel>       
-<title><![CDATA[Juego De Tronos T1 a T7]]></title>
+<title><![CDATA[Juego De Tronos]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/juego-de-tronos_aa2x34j40sc2016-03-24.jpg">Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/Juego%20De%20Tronostodas%20las%20temporadas.xml]]></playlist_url>
@@ -215,20 +208,8 @@
 </channel>
  
  
-<channel>      
-<title><![CDATA[Las chicas del cable T1 a T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/las-chicas-del-cable_rosh6rtkmuf2017-04-28.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/chicas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
- 
- 
- 
 <channel>       
-<title><![CDATA[La casa de papel T1 -T2]]></title>
+<title><![CDATA[La casa de papel ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-casa-de-papel_q8nai4ocohx2017-05-02.jpg"> ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/casapapel.xml]]></playlist_url>
@@ -237,18 +218,12 @@
 
 
  
-  <channel>       
-<title><![CDATA[La peste T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-peste_04thyj7vyfz2018-01-12.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/peste.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+  
  
 
  
   <channel>       
-<title><![CDATA[La verdad T1]]></title>
+<title><![CDATA[La verdad]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"> ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/laverdad.xml]]></playlist_url>
@@ -269,7 +244,7 @@
  
  
  <channel>       
-<title><![CDATA[MacGyver T1 a  T3]]></title>
+<title><![CDATA[MacGyver]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/macgyver_yt3gcthaeti2016-09-25.jpg">Mac y su equipo van a bordo de un tren de BerlÃ­n a Frankfurt para proteger a la asistenta de un ejecutivo que puede testificar contra su deshonesto jefe]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/magiver.xml]]></playlist_url>
@@ -280,7 +255,7 @@
  
 
 <channel>      
-<title><![CDATA[ Narcos T3]]></title> 
+<title><![CDATA[ Narcos]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/narcos_lao3ury64222016-03-24.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/narcost3.xml]]></playlist_url>
@@ -290,7 +265,7 @@
 
   
 <channel>      
-<title><![CDATA[ Outlander T1-T3 ]]></title> 
+<title><![CDATA[ Outlander  ]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/outlander_3cfozeirpc62016-03-24.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/outlander.xml]]></playlist_url>
@@ -305,7 +280,7 @@
 
  
 <channel>       
-<title><![CDATA[The Good doctor t1]]></title>
+<title><![CDATA[The Good doctor]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-good-doctor_lw6p1i0znhb2017-09-27.jpg"/>]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/doctor.xml]]></playlist_url>
@@ -322,7 +297,7 @@
  
 
 <channel>       
-<title><![CDATA[The Walking Dead T1 a T9]]></title>
+<title><![CDATA[The Walking Dead ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-walking-dead_nozflmmbem92016-10-18.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/thewalking.xml]]></playlist_url>
@@ -332,7 +307,7 @@
  
   
 <channel>       
-<title><![CDATA[Vivir sin permiso T1]]></title>
+<title><![CDATA[Vivir sin permiso]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/vivir_sin_permiso_tv_series-545657173-mmed.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/vivir.xml]]></playlist_url>
