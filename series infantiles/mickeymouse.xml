@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[mickey mouse]]></playlist_name> 
+    
+  
+  
+   <channel> 
+<title><![CDATA[ el premio misterioso secreto ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/04acb940c048822bd349eee19d6a9e0a.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/Mic22keyMo8useElPrem9ioMiste77riosoSec66reto.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+   <channel> 
+<title><![CDATA[la gran sorpresa]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/866d8cdf477987d0bff2189d232db49a.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/Mic22keyMou00seLaG3ranSorp7resa.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+   <channel> 
+<title><![CDATA[ micky echa el lazo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/4c3de1d71abeffcde0e98d18f66951b2.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/Mi1ck2eyMou11seMi2ckeyE0chaElLa8zo.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+  <channel> 
+<title><![CDATA[la superprueba de supergool]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/f2ef75aa7e44396e95f39e09f1fe995e.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/M3ickeyMo5useLaSup5erpr6uebaDeSuper44goof.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+
+  <channel> 
+<title><![CDATA[la pastorcita daisy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/9195420513df66475c425acdc5113768.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/Mi1ck1eyMou55seLaPas8torcitaDai4sy.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+  
+
+
+
+
+
+    
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url> 
+</items>

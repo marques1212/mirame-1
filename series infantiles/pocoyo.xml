@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Pocoyo ]]></playlist_name> 
+
+
+
+
+<channel> 
+<title><![CDATA[el circo ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/b6694f0ea86975164cab326346afc247.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/POCOYO.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+
+
+ <channel> 
+<title><![CDATA[cortocircuito]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/fa894ee284a4eee002afafefd55379d0.gif" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/images_20170624/PocoyoCortocircuito.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
+
+</items>
