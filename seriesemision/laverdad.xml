@@ -87,9 +87,23 @@
 <buffer_kb>255000</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[Sabado  1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Zsa2NsZzE6GQlrdSS3tYJp19Rhz3ONq_/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_2_av.m3u8?null=0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>255000</buffer_kb>
+</channel>
 
-
-  
+<channel>
+<title><![CDATA[ 1x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Nsdm9xZzE6omDwmYBqX4zz-U6IRlYZdT/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_2_av.m3u8?null=0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>255000</buffer_kb>
+</channel>
 
 
 
