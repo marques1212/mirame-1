@@ -228,18 +228,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- <channel>       
-<title><![CDATA[MacGyver]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/macgyver_yt3gcthaeti2016-09-25.jpg">Mac y su equipo van a bordo de un tren de BerlÃ­n a Frankfurt para proteger a la asistenta de un ejecutivo que puede testificar contra su deshonesto jefe]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/magiver.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-
- 
 
 <channel>      
 <title><![CDATA[ Narcos]]></title> 
@@ -297,11 +285,17 @@
 <title><![CDATA[Vivir sin permiso]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/vivir_sin_permiso_tv_series-545657173-mmed.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/vivir.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/vivir.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>       
+<title><![CDATA[Vis a Vis ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/bb3d42154c4e9deeebf89a50da817b12.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/visavis.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
