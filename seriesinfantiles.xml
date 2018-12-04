@@ -6,56 +6,7 @@
  
   
  
- <channel>       
-<title><![CDATA[autos locos]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic88/e0bd4fa35d8d5f30aa55db83b745a280.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/autos.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
-  
  
- <channel>       
-<title><![CDATA[henry danger]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/henrydanger.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
- 
-  
- 
- 
- 
-  <channel>       
-<title><![CDATA[mickey mouse]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/ab8b1ed7eddb801bf83df6e01da92ac0.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/mickeymouse.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
- 
- 
-  <channel>       
-<title><![CDATA[pocoyo]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/5f0089f4973bd9d86abf99d42381a0d4.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/pocoyo.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
-  <channel>       
-<title><![CDATA[peppa pig]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/c263c95e63e5c142903e4f7e6115d54b.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/peppapig.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
  
  <channel>
 <title><![CDATA[trolls 2016]]></title>
