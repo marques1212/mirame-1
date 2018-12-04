@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>Anatonomia de grey >> Temporada 13- 14-15</playlist_name>
+ <playlist_name>Anatonomia de grey >> </playlist_name>
  
 <channel>
 <title><![CDATA[1 Deshacer]]></title>
@@ -395,7 +395,61 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[T15 1X02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bk6w4r3290zy]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[T15 1X03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/dkZRt6fTt8E]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T15 1X04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/nRCegUqz5uU]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T15 1X05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6zwly60qqubl]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T15 1X06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/RjsKpIDuGQE]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T15 1X07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/UrkRm8OK8Wc]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T15 1X08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/7wXk7d4q8nM]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
