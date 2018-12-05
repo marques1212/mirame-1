@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>The Good Doctor >> Temporada 1 - 2</playlist_name>
+ <playlist_name>The Good Doctor >> </playlist_name>
  
 
 
@@ -164,7 +164,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[8 T2 Stories]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/o8yn-FBZZ50#]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
