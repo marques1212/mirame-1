@@ -474,6 +474,68 @@
 </channel>
 
  
+ <channel>
+<title><![CDATA[Capitulo 7x01 TEMP 7]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/tron%207x01.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 7x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/tron%207x01.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 7x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/tron%207x01.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[Capitulo 7x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/Tron7x04.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Capitulo 7x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/Tron7x05.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 7x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/Tron7x06.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 7x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Tron7x01/Tron7x07.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision.xml]]></prev_page_url>
 
 </items>
