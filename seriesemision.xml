@@ -269,7 +269,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>       
+<title><![CDATA[The Roockie]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_rookie_tv_series-135988493-mmed.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/rockie.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 
