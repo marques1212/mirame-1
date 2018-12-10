@@ -12,7 +12,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
- 
+ <channel>       
+<title><![CDATA[PELIS 2019]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/9f58e89b99c218b2b06b9254e4135cd6.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/mejores/2019.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
 
   
