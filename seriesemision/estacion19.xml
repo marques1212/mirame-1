@@ -36,7 +36,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 2x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/vivir_sin_permiso_tv_series-545657173-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/6KNEso8RnaA]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
