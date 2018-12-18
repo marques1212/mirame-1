@@ -180,7 +180,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[10 T2 Quarantine]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/LCwM1KJ5bO0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
