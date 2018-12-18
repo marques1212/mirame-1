@@ -102,7 +102,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/vivir_sin_permiso_tv_series-545657173-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/nUzhhXYnuYE#]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
