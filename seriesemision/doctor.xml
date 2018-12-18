@@ -165,6 +165,49 @@
 </channel>
  
  <channel>
+<title><![CDATA[T2X03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/k1fwe0u0yzyr]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[T2X04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/wBVgL1M-ne0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T2X05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/exdrsyj08wct]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T2X06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dm0p8ky98wrj]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[T2X07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/u3tr9pmfiocg]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ <channel>
 <title><![CDATA[8 T2 Stories]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="" />]]></description>
