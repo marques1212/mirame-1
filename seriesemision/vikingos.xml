@@ -589,7 +589,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 5x15]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/4ad393f0ba1de08169a5b34acd2bae0c.gif"/>]]></description>
+<stream_url><![CDATA[https://openload.co/f/6pPsSaRaSyI]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
