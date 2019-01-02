@@ -278,7 +278,14 @@
 </channel>
  
  
-
+<channel>       
+<title><![CDATA[The Last Ship]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_last_ship_tv_series-120044720-mmed.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/lastship.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 
 
  
