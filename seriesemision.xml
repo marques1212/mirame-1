@@ -250,7 +250,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>      
+<title><![CDATA[Manifest ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://pics.filmaffinity.com/manifest_tv_series-939662792-mmed.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/manifest.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
