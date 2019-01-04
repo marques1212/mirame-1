@@ -1112,8 +1112,77 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[7x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/g22wgxq5qi4i]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[7x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/UfDVlRTROv4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/uARvcFW4Quk]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/o7b690kfxyy8]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/o35wfgq74j45]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/PajROWKzFpc]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://openload.co/f/I9Nk764aJR0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://streamango.com/f/acbclmsqnrofndon]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[7x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://streamango.com/f/lbdrlnkptbnqqcbk]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
