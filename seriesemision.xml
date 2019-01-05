@@ -32,6 +32,13 @@
  
  
  
+<channel>       
+<title><![CDATA[American Crime ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/american-crime_hqzde81ijzm2016-03-24.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/american.xml ]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
 
  
