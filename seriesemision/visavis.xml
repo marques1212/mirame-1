@@ -282,9 +282,21 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[4x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/v6xf6nk1ar2p/v1s4v1s.s04e03.720p.hdtv.mkv.html]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
- 
- 
+ <channel>
+<title><![CDATA[4x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4d6rzoitub08/v1s4v1s.s04e04.720p.hdtv.mkv.html]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
