@@ -211,7 +211,7 @@
 <title><![CDATA[Juego De Tronos]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/juego-de-tronos_aa2x34j40sc2016-03-24.jpg">Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/juegostronos.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/angelitoipa/mirame/master/seriesemision/juegotronos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
