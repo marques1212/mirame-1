@@ -76,7 +76,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_rookie_tv_series-135988493-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://streamango.com/f/kfdrcqtpsrprtorr]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
