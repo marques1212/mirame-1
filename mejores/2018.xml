@@ -1111,10 +1111,17 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/l02ozli6eas1]]></stream_url>
-<description><![CDATA[<img src=""/>]]>Eddie Brock (Tom Hardy) es un consolidado periodista y astuto reportero que está investigando una empresa llamada Fundación Vida. Esta fundación, dirigida por el eminente científico Carlton Drake (Riz Ahmed), está ejecutando secretamente experimentos ilegales en seres humanos y realizando pruebas que involucran formas de vida extraterrestres y amorfas conocidas como simbiontes. </description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/venom-367385587-mmed.jpg"/>]]>Eddie Brock (Tom Hardy) es un consolidado periodista y astuto reportero que está investigando una empresa llamada Fundación Vida. Esta fundación, dirigida por el eminente científico Carlton Drake (Riz Ahmed), está ejecutando secretamente experimentos ilegales en seres humanos y realizando pruebas que involucran formas de vida extraterrestres y amorfas conocidas como simbiontes. </description>
 </channel>
 	
-	
+<channel>
+<title><![CDATA[Millennium: Lo que no te mata te hace más fuerte 2018 accion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://openload.co/f/EvT5RBn-rfc]]></stream_url>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_girl_in_the_spider_s_web-235890631-mmed.jpg"/>]]>Adapta la novela escrita por David Lagercrantz donde la joven hacker Lisbeth Salander y el periodista Mikael Blomkvist se verán atrapados en una red de espías, ciberdelincuentes y funcionarios del gobierno corruptos. </description>
+</channel>
 	
 	
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
