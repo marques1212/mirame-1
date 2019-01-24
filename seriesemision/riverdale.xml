@@ -256,7 +256,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[3x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/riverdale_8bk0eiyu7li2017-01-28.jpg" />]]>Georgina es una mujer del medio oeste que se caso con Constantine Clio,un hombre multimillonario. Georgina comienza a vivir un cuento de hadas que, lamentablemente, no dura. Despues de un ano de matrimonio, su vida se hace pedazos cuando Constantine fallece en una misteriosa explosion a bordo del yate de un traficante de armas ruso.Georgina se propone descubrir que fue lo que paso, porque piensa que hay algo mas en la muerte de su marido. Es asi como entra en un juego peligroso lleno de mentiras, dobles sentidos y crimenes al que debera adaptarse rapidamente para poder sobrevivir y proteger tanto a su familia como su fortuna. </description>
+<stream_url><![CDATA[https://openload.co/f/3n6L2s0BGO4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
