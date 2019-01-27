@@ -984,6 +984,18 @@
 <thumbnail>http://pics.filmaffinity.com/jeune_et_jolie_young_beautiful-777298793-large.jpg</thumbnail>
 <description>http://pics.filmaffinity.com/jeune_et_jolie_young_beautiful-777298793-large.jpg</description>
 </channel>
+	
+<channel>
+<title><![CDATA[ Jóvenes ocultos ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>>
+<buffer_kb>30000</buffer_kb>
+<video_type>http</video_type>
+<stream_url><![CDATA[http://streamcloud.eu/7ls7bpzvb500]]></stream_url>
+    
+<thumbnail>https://pics.filmaffinity.com/the_lost_boys-230422119-mmed.jpg</thumbnail>
+<description></description>
+</channel>
+	
 
 
 <channel>
