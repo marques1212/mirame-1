@@ -1868,6 +1868,18 @@
 </channel>
  
  
+ <channel>
+<title><![CDATA[fast & furius 8]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/e3f5036e67e449c75282523101c9b4ee.gif" />La carrera ha comenzado. Dom Toretto y su equipo volveran en esta ocasion con mas ganas de guerra que nunca. No faltaran los excesos de velocidad y la adrenalina a raudales para un filme del que se espera que sea la entrega con mas accion de esta saga callejera por excelencia]]></description>
+<stream_url><![CDATA[https://openload.co/f/-zFZD1KaIaA]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/menuhd.xml]]></prev_page_url>
 
